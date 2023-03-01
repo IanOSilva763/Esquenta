@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbbdb5eb-c4aa-4e1a-8a50-e94ce0cd1837" name="Changes" comment="classes">
-      <change beforePath="$PROJECT_DIR$/src/Ator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Diretor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Diretor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677710512571</updated>
-      <workItem from="1677710513891" duration="2913000" />
+      <workItem from="1677710513891" duration="3292000" />
     </task>
     <task id="LOCAL-00001" summary="classes">
       <created>1677712672831</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677713023814</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="classes">
+      <created>1677713480566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677713480566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

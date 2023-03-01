@@ -1,4 +1,6 @@
 public class Filme {
+    private Ator ator;
+    private Diretor diretor;
     private Integer nota;
     private Integer anolancamento;
     private String nome;
