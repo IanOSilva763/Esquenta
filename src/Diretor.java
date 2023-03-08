@@ -8,7 +8,9 @@ public class Diretor extends Pessoa {
     public Integer getQuantidade_premios() {
         return quantidade_premios;
     }
+    public void addFilme(Filme filme) {
 
+    }
     public void setQuantidade_premios(Integer quantidade_premios) {
         this.quantidade_premios = quantidade_premios;
     }

@@ -1,4 +1,8 @@
+import java.util.ArrayList;
+import java.util.Collection;
+
 public class Filme {
+    private Collection<Ator> atores = new ArrayList<>();
     private Genero genero;
     private Ator ator;
     private Diretor diretor;
